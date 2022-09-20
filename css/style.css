@@ -197,3 +197,20 @@ td:hover {
 .p03-tabel a:hover {
 	background-color: peachpuff;
 }
+.my-form  p {
+	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: lightcoral;
+}
+.my-form a {
+	text-decoration: none;
+	color: white;
+}
