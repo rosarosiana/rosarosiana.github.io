@@ -214,3 +214,20 @@ td:hover {
 	text-decoration: none;
 	color: white;
 }
+.my-formlv2  p {
+	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: lightcoral;
+}
+.my-formlv2 a {
+	text-decoration: none;
+	color: white;
+}
