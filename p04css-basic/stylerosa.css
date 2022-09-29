@@ -1,0 +1,58 @@
+body {
+  font-family: "sans-serif";
+}
+.kepala {
+  font-family: "cursive";
+  font-size: 30px;
+}
+
+legend {
+  color: darkgoldenrod;
+}
+
+select:hover {
+  background-color: palegoldenrod;
+}
+
+option:hover {
+  background-color: palegoldenrod;
+}
+
+input:hover {
+  background-color: palegoldenrod;
+}
+
+textarea:hover {
+  background-color: palegoldenrod;
+}
+
+.petunjuk {
+  margin: 0px 0px 0px 20px;
+  font-size: 25px;
+  color: rebeccapurple;
+}
+
+.image-headers {
+  width: 100%;
+  height: auto;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-headers img {
+  width: 100%;
+  height: auto;
+}
+
+.petunjuk-1 {
+  padding-bottom: 20px;
+  color: rebeccapurple;
+  margin: auto;
+}
+
+button a {
+  color: darkgoldenrod;
+  font-family: "sans-serif;";
+  text-decoration: none;
+}
