@@ -2,7 +2,7 @@ body {
   font-family: "sans-serif";
 }
 .kepala {
-  font-family: "cursive";
+  font-family: "sans-serif;";
   font-size: 30px;
 }
 
@@ -27,7 +27,7 @@ textarea:hover {
 }
 
 .petunjuk {
-  margin: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 16px;
   font-size: 25px;
   color: rebeccapurple;
 }
@@ -46,7 +46,7 @@ textarea:hover {
 }
 
 .petunjuk-1 {
-  padding-bottom: 20px;
+  padding-bottom: 16px;
   color: rebeccapurple;
   margin: auto;
 }
