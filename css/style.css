@@ -1,21 +1,21 @@
 body {
-	background: linear-gradient(to right, burlywood, coral);
+	background: floralwhite;
 	font-family: sans-serif; text-align: center;
 }
 
 .my-photo p {
 	text-align: center;
 	padding: 3px;
-	color: black;
+	color: firebrick;
 	font-size: 21px;
 }
 
 .my-photo a {
 	text-align: center;
-	color: black;
+	color: firebrick;
 
 	text-decoration: none;
-	color: burlywood;
+	color: firebrick;
 }
 
 img {
@@ -26,7 +26,7 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 	border-radius: 99em;
-	color: grey;
+	color: lavenderblush;
 }
 
 .my-instagram h2 {
@@ -40,12 +40,12 @@ img {
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	background: lightcoral;
+	background: lavenderblush;
 }
 
 .my-instagram a {
 	text-decoration: none;
-	color: white;
+	color: firebrick;
 }
 
 .my-twitter h2 {
@@ -59,12 +59,12 @@ img {
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	background: lightcoral;
+	background: lavenderblush;
 }
 
 .my-twitter a {
 	text-decoration: none;
-	color: white;
+	color: firebrick;
 }
 
 .my-bestie01 p {
@@ -78,12 +78,12 @@ img {
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	background: lightcoral;
+	background: lavenderblush;
 }
 
 .my-bestie01 a {
 	text-decoration: none;
-	color: white;
+	color: firebrick;
 }
 
 .my-bestie02 p {
@@ -97,12 +97,12 @@ img {
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	background: lightcoral;
+	background: lavenderblush;
 }
 
 .my-bestie02 a {
 	text-decoration: none;
-	color: white;
+	color: firebrick;
 }
 
 .my-bestie p {
@@ -116,12 +116,12 @@ img {
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	background: lightcoral;
+	background: lavenderblush;
 }
 
 .my-bestie a {
 	text-decoration: none;
-	color: white;
+	color: firebrick;
 }
 
 .judul {
@@ -208,11 +208,11 @@ td:hover {
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	background: lightcoral;
+	background: lavenderblush;
 }
 .my-form a {
 	text-decoration: none;
-	color: white;
+	color: firebrick;
 }
 .my-formlv2  p {
 	text-align: left;
@@ -225,9 +225,41 @@ td:hover {
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	background: lightcoral;
+	background: lavenderblush;
 }
-.my-formlv2 a {
+.my-formlv2  a {
 	text-decoration: none;
-	color: white;
+	color: firebrick;
+}
+.my-tabelfadeout  p {
+	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: lavenderblush;
+}
+.my-tabelfadeout a {
+	text-decoration: none;
+	color: firebrick;
+}
+.back-tabeljquery {
+	margin-top: 40px;
+}
+
+.back-tabeljquery a {
+	background-color: bisque;
+	font-size: 20px;
+	color: black;
+	padding: 15px 25px;
+	text-decoration: none;
+	border-radius: 20px;
+}
+.back-tabeljquery a:hover {
+	background-color: peachpuff;
 }
